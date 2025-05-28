@@ -1,0 +1,6 @@
+{
+  "name": "Copy of AI Relationship Advisor",
+  "description": "A web application that uses the Gemini API to provide relationship advice based on user-described problems. Enter your concern and get AI-generated insights.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
